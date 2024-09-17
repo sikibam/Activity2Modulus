@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class TimeConversionTableFormatJOptionPane {
+public class JOptionActivity {
     public static void main(String[] args) {
         // Get input from the user via JOptionPane
         String input = JOptionPane.showInputDialog(null, "This program converts input time in Seconds to its equivalent in Hours, Minutes, and Seconds\n\nInput time in seconds:");
